@@ -1,0 +1,15 @@
+/Users/macbook/GB/seminar 1/obj/Debug/net6.0/seminar 1.csproj.AssemblyReference.cache
+/Users/macbook/GB/seminar 1/obj/Debug/net6.0/seminar 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/GB/seminar 1/obj/Debug/net6.0/seminar 1.AssemblyInfoInputs.cache
+/Users/macbook/GB/seminar 1/obj/Debug/net6.0/seminar 1.AssemblyInfo.cs
+/Users/macbook/GB/seminar 1/obj/Debug/net6.0/seminar 1.csproj.CoreCompileInputs.cache
+/Users/macbook/GB/seminar 1/bin/Debug/net6.0/seminar 1
+/Users/macbook/GB/seminar 1/bin/Debug/net6.0/seminar 1.deps.json
+/Users/macbook/GB/seminar 1/bin/Debug/net6.0/seminar 1.runtimeconfig.json
+/Users/macbook/GB/seminar 1/bin/Debug/net6.0/seminar 1.dll
+/Users/macbook/GB/seminar 1/bin/Debug/net6.0/seminar 1.pdb
+/Users/macbook/GB/seminar 1/obj/Debug/net6.0/seminar 1.dll
+/Users/macbook/GB/seminar 1/obj/Debug/net6.0/refint/seminar 1.dll
+/Users/macbook/GB/seminar 1/obj/Debug/net6.0/seminar 1.pdb
+/Users/macbook/GB/seminar 1/obj/Debug/net6.0/seminar 1.genruntimeconfig.cache
+/Users/macbook/GB/seminar 1/obj/Debug/net6.0/ref/seminar 1.dll
