@@ -1,0 +1,15 @@
+/Users/macbook/Seminari/Seminari/TASK3/bin/Debug/net6.0/TASK3
+/Users/macbook/Seminari/Seminari/TASK3/bin/Debug/net6.0/TASK3.deps.json
+/Users/macbook/Seminari/Seminari/TASK3/bin/Debug/net6.0/TASK3.runtimeconfig.json
+/Users/macbook/Seminari/Seminari/TASK3/bin/Debug/net6.0/TASK3.dll
+/Users/macbook/Seminari/Seminari/TASK3/bin/Debug/net6.0/TASK3.pdb
+/Users/macbook/Seminari/Seminari/TASK3/obj/Debug/net6.0/TASK3.csproj.AssemblyReference.cache
+/Users/macbook/Seminari/Seminari/TASK3/obj/Debug/net6.0/TASK3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Seminari/Seminari/TASK3/obj/Debug/net6.0/TASK3.AssemblyInfoInputs.cache
+/Users/macbook/Seminari/Seminari/TASK3/obj/Debug/net6.0/TASK3.AssemblyInfo.cs
+/Users/macbook/Seminari/Seminari/TASK3/obj/Debug/net6.0/TASK3.csproj.CoreCompileInputs.cache
+/Users/macbook/Seminari/Seminari/TASK3/obj/Debug/net6.0/TASK3.dll
+/Users/macbook/Seminari/Seminari/TASK3/obj/Debug/net6.0/refint/TASK3.dll
+/Users/macbook/Seminari/Seminari/TASK3/obj/Debug/net6.0/TASK3.pdb
+/Users/macbook/Seminari/Seminari/TASK3/obj/Debug/net6.0/TASK3.genruntimeconfig.cache
+/Users/macbook/Seminari/Seminari/TASK3/obj/Debug/net6.0/ref/TASK3.dll
