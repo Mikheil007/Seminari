@@ -1,0 +1,15 @@
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/obj/Debug/net6.0/Task 13.csproj.AssemblyReference.cache
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/obj/Debug/net6.0/Task 13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/obj/Debug/net6.0/Task 13.AssemblyInfoInputs.cache
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/obj/Debug/net6.0/Task 13.AssemblyInfo.cs
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/obj/Debug/net6.0/Task 13.csproj.CoreCompileInputs.cache
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/bin/Debug/net6.0/Task 13
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/bin/Debug/net6.0/Task 13.deps.json
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/bin/Debug/net6.0/Task 13.runtimeconfig.json
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/bin/Debug/net6.0/Task 13.dll
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/bin/Debug/net6.0/Task 13.pdb
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/obj/Debug/net6.0/Task 13.dll
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/obj/Debug/net6.0/refint/Task 13.dll
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/obj/Debug/net6.0/Task 13.pdb
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/obj/Debug/net6.0/Task 13.genruntimeconfig.cache
+/Users/macbook/GB/Seminari-1/SEMINAR 2/Task 10/Task 13/obj/Debug/net6.0/ref/Task 13.dll
