@@ -1,0 +1,15 @@
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/bin/Debug/net6.0/TASK 23
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/bin/Debug/net6.0/TASK 23.deps.json
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/bin/Debug/net6.0/TASK 23.runtimeconfig.json
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/bin/Debug/net6.0/TASK 23.dll
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/bin/Debug/net6.0/TASK 23.pdb
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/obj/Debug/net6.0/TASK 23.csproj.AssemblyReference.cache
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/obj/Debug/net6.0/TASK 23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/obj/Debug/net6.0/TASK 23.AssemblyInfoInputs.cache
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/obj/Debug/net6.0/TASK 23.AssemblyInfo.cs
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/obj/Debug/net6.0/TASK 23.csproj.CoreCompileInputs.cache
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/obj/Debug/net6.0/TASK 23.dll
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/obj/Debug/net6.0/refint/TASK 23.dll
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/obj/Debug/net6.0/TASK 23.pdb
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/obj/Debug/net6.0/TASK 23.genruntimeconfig.cache
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 3/TASK 23/obj/Debug/net6.0/ref/TASK 23.dll
