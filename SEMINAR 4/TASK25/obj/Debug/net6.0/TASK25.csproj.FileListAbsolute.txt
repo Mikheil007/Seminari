@@ -1,0 +1,15 @@
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/bin/Debug/net6.0/TASK25
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/bin/Debug/net6.0/TASK25.deps.json
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/bin/Debug/net6.0/TASK25.runtimeconfig.json
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/bin/Debug/net6.0/TASK25.dll
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/bin/Debug/net6.0/TASK25.pdb
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/obj/Debug/net6.0/TASK25.csproj.AssemblyReference.cache
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/obj/Debug/net6.0/TASK25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/obj/Debug/net6.0/TASK25.AssemblyInfoInputs.cache
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/obj/Debug/net6.0/TASK25.AssemblyInfo.cs
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/obj/Debug/net6.0/TASK25.csproj.CoreCompileInputs.cache
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/obj/Debug/net6.0/TASK25.dll
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/obj/Debug/net6.0/refint/TASK25.dll
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/obj/Debug/net6.0/TASK25.pdb
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/obj/Debug/net6.0/TASK25.genruntimeconfig.cache
+/Users/mikhailabramishvili/Desktop/GIT/Seminari C#/Seminari/SEMINAR 4/TASK25/obj/Debug/net6.0/ref/TASK25.dll
