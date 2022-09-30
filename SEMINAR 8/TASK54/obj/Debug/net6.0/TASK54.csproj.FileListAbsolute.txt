@@ -1,0 +1,15 @@
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/bin/Debug/net6.0/TASK54
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/bin/Debug/net6.0/TASK54.deps.json
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/bin/Debug/net6.0/TASK54.runtimeconfig.json
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/bin/Debug/net6.0/TASK54.dll
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/bin/Debug/net6.0/TASK54.pdb
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/obj/Debug/net6.0/TASK54.csproj.AssemblyReference.cache
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/obj/Debug/net6.0/TASK54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/obj/Debug/net6.0/TASK54.AssemblyInfoInputs.cache
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/obj/Debug/net6.0/TASK54.AssemblyInfo.cs
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/obj/Debug/net6.0/TASK54.csproj.CoreCompileInputs.cache
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/obj/Debug/net6.0/TASK54.dll
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/obj/Debug/net6.0/refint/TASK54.dll
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/obj/Debug/net6.0/TASK54.pdb
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/obj/Debug/net6.0/TASK54.genruntimeconfig.cache
+/Users/mikhailabramishvili/Desktop/GIT/Seminari/SEMINAR 8/TASK54/obj/Debug/net6.0/ref/TASK54.dll
